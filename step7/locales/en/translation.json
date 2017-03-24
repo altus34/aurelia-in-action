@@ -1,0 +1,9 @@
+{
+  "registration": {
+    "title": "Registration",
+    "email": "Email",
+    "email_confirmation": "Email confirmation",
+    "password": "Password",
+    "register": "Register"
+  }
+}

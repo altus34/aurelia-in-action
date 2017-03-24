@@ -1,0 +1,9 @@
+{
+  "registration": {
+    "title": "Enregitrement",
+    "email": "Adresse courielle",
+    "email_confirmation": "Adresse courielle confirmation",
+    "password": "Mot de passe",
+    "register": "Enregistrer"
+  }
+}
